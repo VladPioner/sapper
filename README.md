@@ -22,7 +22,7 @@
   загрузить в корень вашего сайта папку images<br>
 </li>
 <li>
-  Из файла <strong>index.html</strong> скопировать <strong>div id="sapper_settings"</strong> со всем его содержимым и вставить в ваш сайт в требуемое вам место
+  Из файла <strong>index.html</strong> скопировать <strong>div id="sapper_wrapper"</strong> со всем его содержимым и вставить в ваш сайт в требуемое вам место
 </li>
 </ul>
 
