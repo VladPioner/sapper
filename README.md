@@ -19,6 +19,6 @@
   &lt;link rel="stylesheet" href="sapper.css" type="text/css"  /&gt;
 </li>
 <li>
-  Из файла index.html скопировать div id="sapper_settings" со всем его содержимым и вставить в вашь сайт в требуемое вам место
+  Из файла index.html скопировать div id="sapper_settings" со всем его содержимым и вставить в ваш сайт в требуемое вам место
 </li>
 </ul>
