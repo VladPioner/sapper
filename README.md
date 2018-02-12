@@ -1,4 +1,4 @@
-Класическая игра САПЕР
+Классическая игра САПЕР
 <br><br>
 Написана на JavaScript с использованием библиотеки jQuery
 <br><br>
@@ -17,6 +17,9 @@
 <li>
   Подключить css стили<br>
   &lt;link rel="stylesheet" href="sapper.css" type="text/css"  /&gt;
+</li>
+<li>
+  загрузить в корень вашего сайта папку images<br>
 </li>
 <li>
   Из файла index.html скопировать div id="sapper_settings" со всем его содержимым и вставить в ваш сайт в требуемое вам место
